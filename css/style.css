@@ -1,0 +1,188 @@
+#box1
+{
+       width: 500px;
+    padding: 15px;
+    background-color: #f5f5f5;
+    box-shadow: 0px 8px  12px 2px black;
+   margin-left: 30px;
+   margin-right: 30px;
+   border-radius: 25px;
+     
+}
+#box1:hover
+{
+       width: 500px;
+    padding: 15px;
+    background-color: #b2dfdb;
+    box-shadow: 0px 8px 12px 2px black;
+   margin-left: 30px;
+   margin-right: 30px;
+   border-radius: 25px;
+}
+#head
+{
+	color:lightgrey;
+	font-size:45px;
+font-weight:400;
+line-height:64px;
+}
+#head1
+{
+	color:black;
+	font-size:24px;
+font-weight:400;
+line-height:52px;
+border-radius: 25px;
+}
+
+#b
+{
+	border-radius: 25px;
+	background-color: #212121;
+       width: 75px;
+    padding: 15px;
+    color:white;
+}
+input
+{
+border-radius: 25px;
+}
+input:active
+{
+border-radius: 25px;
+}
+#inp
+{
+border-radius: 25px;
+width:300px;
+}
+#inp:active
+{
+border-radius: 25px;
+width:300px;
+}
+#in
+{
+border-radius: 25px;
+width:100px;
+height:50px;
+font-size: 20px;
+}
+
+#i
+{
+border-radius: 25px;
+  background-color: #212121;
+       width: 75px;
+    padding: 10px;
+    color:white;
+  
+}
+#i:hover
+{
+  border-radius: 25px;
+  background-color: white;
+       width: 75px;
+    padding: 10px;
+    color:black;
+}
+
+#b:hover
+{
+  border-radius: 25px;
+  background-color: white;
+       width: 75px;
+    padding: 15px;
+    color:black;
+}
+
+#a
+{
+  border-radius: 50%;
+  height: 125px; width: 125px;
+  padding:4px;
+  left-padding :10px;
+}
+#a1
+{
+  border-radius: 25%;
+  height: 200px; width: 200px;
+  padding:4px;
+  left-padding :10px;
+}
+@media (max-width:500px)
+{
+#box1
+{
+       width: 250px;
+    padding: 15px;
+    background-color: #f5f5f5;
+    box-shadow: 0px 8px  12px 2px black;
+   margin-left: 30px;
+   margin-right: 30px;
+   border-radius: 25px;
+     
+}
+#box1:hover
+{
+       width: 250px;
+    padding: 15px;
+    background-color: #b2dfdb;
+    box-shadow: 0px 8px 12px 2px black;
+   margin-left: 30px;
+   margin-right: 30px;
+   border-radius: 25px;
+}
+#head
+{
+	color:lightgrey;
+	font-size:25px;
+font-weight:400;
+line-height:64px;
+}
+#head1
+{
+	color:black;
+	font-size:12px;
+font-weight:400;
+line-height:52px;
+}
+#head2
+{
+color:lightgrey;
+  font-size:17px;
+font-weight:400;
+line-height:64px;
+}
+#b
+{
+  border-radius: 25px;
+  background-color: #212121;
+       width: 75px;
+    padding: 15px;
+    color:white;
+}
+input
+{
+border-radius: 25px;
+}
+input:active
+{
+border-radius: 25px;
+}
+#b:hover
+{
+  border-radius: 25px;
+  background-color: white;
+       width: 75px;
+    padding: 15px;
+    color:black;
+}
+
+
+h3
+{
+font-size:13px;  
+}
+	
+}
